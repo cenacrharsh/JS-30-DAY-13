@@ -9,5 +9,5 @@
 ![ss.png](./ss.png)
 
 ## Lessons Learned:
-- learned the use of `debouncer` function and used a lot of coordinare properties on windows and images like `window.scrollY` `window.innerHeight` `offsetTop` and `height`
+- learned the use of the `debouncer` function and used a lot of coordinate properties on windows and images like `window.scrollY` `window.innerHeight` `offsetTop` and `height`
 
